@@ -53,4 +53,3 @@ This repository features a **.NET-based Hotel Management System**, offering a co
 ---  
 
 This project is an ideal solution for hotel operations and can be expanded further to meet specific requirements. Contributions and suggestions for improvement are welcome!  
-'https://MyHotel/api/Rooms/id'
