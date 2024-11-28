@@ -41,7 +41,7 @@ This repository features a **.NET-based Hotel Management System**, offering a co
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/hotel-management-system.git  
+   git clone https://github.com/TziporaGoldshmidt/hotel-project-.net.git  
    ```  
 2. Configure the database connection string in the `appsettings.json` file.  
 3. Run the project using the .NET CLI:  
